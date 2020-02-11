@@ -1,5 +1,5 @@
 # project-Mongo
-![SanFrancisco](San Francisco.jpg) 
+![SanFrancisco](SanFrancisco.jpg) 
 
 Recientemente creó una nueva empresa en la 'industria del juego'. La compañía tendrá el siguiente esquema:
 
